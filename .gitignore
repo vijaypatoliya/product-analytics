@@ -1,0 +1,7 @@
+# Avoid pushing WebStorm configuration
+.idea
+
+# Avoid env configuration
+.env
+
+node_modules
